@@ -48,7 +48,7 @@ body {
   height: 190px;
 }
 .banner .banner__contents .banner_title {
-  font-size: 3rem;
+  font-size: 5rem;
   font-weight: 800;
   padding-bottom: 0.3rem;
 }
@@ -57,7 +57,7 @@ body {
   color: white;
   outline: none;
   border: none;
-  font-weight: 700;
+  font-weight: 800;
   border-radius: 0.2vw;
   padding: 0.5rem 2rem;
   margin-right: 1rem;
@@ -72,9 +72,9 @@ body {
   width: 45rem;
   line-height: 1.3;
   padding-top: 1rem;
-  font-size: 0.8rem;
+  font-size: 1rem;
   max-width: 360px;
-  height: 180px;
+  height: 200px;
 }
 .banner .banner--fadeBottom {
   margin-top: 145px;
@@ -98,15 +98,18 @@ body {
 .row .row__posters .row__poster {
   width: 100%;
   object-fit: contain;
-  max-height: 100px;
+  max-height: 200px;
   margin-right: 10px;
   transition: transform 450ms;
+}
+.row .row__posters .row__poster img {
+  max-width: 100%;
 }
 .row .row__posters .row__poster:hover {
   transform: scale(1.08);
 }
 .row .row__posters .row__posterLarge {
-  max-width: 250px;
+  max-width: 550px;
 }
 .row .row__posters .row__posterLarge:hover {
   transform: scale(1.09);
