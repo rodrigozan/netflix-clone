@@ -1,0 +1,21 @@
+{
+  "name": "netflix-clone",
+  "version": "1.0.0",
+  "description": "Projeto de clonagem da plataforma de streamming Netflix.",
+  "main": "index.js",
+  "scripts": {
+    "sass": "cd css && sass --watch master.scss styles.css"
+  },
+  "keywords": [
+    "netflix",
+    "html5",
+    "css3",
+    "sass",
+    "portfólio"
+  ],
+  "author": "Rod Zandonadi",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.53.0"
+  }
+}
