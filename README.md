@@ -8,4 +8,6 @@ Tecnologias utilizadas:
 - CSS3
 - SASS
 
-Para instalar as dependências, digite **npm install**
+Para instalar as dependências, entre na pasta do projeto e digite **npm install**.
+
+Para rodar o sass, digite **npm run sass**.
