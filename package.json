@@ -2,7 +2,7 @@
   "name": "netflix-clone",
   "version": "1.0.0",
   "description": "Projeto de clonagem da plataforma de streamming Netflix.",
-  "main": "index.js",
+  "main": "js/index.js",
   "scripts": {
     "sass": "cd css && sass --watch master.scss styles.css"
   },
