@@ -2,6 +2,8 @@
 
 Projeto de clonagem da plataforma de streamming **Netflix**.
 
+![Netflix Clone by Rodrigo Zan](https://raw.githubusercontent.com/rodrigozan/netflix-clone/master/Nexflit%20Clone%20by%20Rodrigo%20Zan.png)
+
 Tecnologias utilizadas:
 
 - HTML5
